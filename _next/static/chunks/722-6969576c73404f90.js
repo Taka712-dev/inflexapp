@@ -38,7 +38,7 @@
                     return r
                 }
             });
-            let r = "https://",
+            let r = "https://etherscan.io/",
                 i = {
                     name: "Hybrid Testnet",
                     testnet: !0,
